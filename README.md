@@ -92,4 +92,4 @@ USER>
 [Online Demo SMP](https://gbl-to-json-a.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)   
 
 ### Code Quality 
-<img width="85%" src="https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/CodeQuality.JPG"> 
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1786/screenshots/cvqkv7smifazic8vrnk7seudqk.jpg"> 
