@@ -4,7 +4,7 @@ Global from this type of JSON object. ***Academic*** refers to the structure cre
 Each logical node of the Global is presented separately with all its descendants    
 even if they don't contain any stored data.   
 
-![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/Globals.png)    
+<img width="80%" src="https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/Globals.png">    
 
 ## Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
@@ -83,12 +83,13 @@ USER>zw ^dc.MultiD
 USER>
 ```
 **q.a.d.**   
-### Code Quality 
-![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/CodeQuality.JPG) 
+
+[Article in DC](https://community.intersystems.com/post/globaltojson-academic)
 
 [Video](https://youtu.be/8Fz2537FHzc)
 
 [Online Demo Terminal](https://gbl-to-json-a.demo.community.intersystems.com/terminal/)      
 [Online Demo SMP](https://gbl-to-json-a.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)   
 
-[Article in DC](https://community.intersystems.com/post/globaltojson-academic)
+### Code Quality 
+<img width="85%" src="https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/CodeQuality.JPG"> 
