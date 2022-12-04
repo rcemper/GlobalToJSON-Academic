@@ -3,7 +3,7 @@
   <Document name="gbl-to-json-a.ZPM">
     <Module>
       <Name>gbl-to-json-a</Name>
-      <Version>0.0.3</Version>
+      <Version>0.0.4</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.GblToJSON.A.CLS"/>
